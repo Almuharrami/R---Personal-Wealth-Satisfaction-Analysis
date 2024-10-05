@@ -1,4 +1,4 @@
-# Written by Abdulla Alameri
+# Written by Abdulla Almuharrami
 # Last Edit : 12-June-2023
 
 # Load Packages
